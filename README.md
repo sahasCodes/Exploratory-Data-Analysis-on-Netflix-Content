@@ -10,7 +10,7 @@ This repository contains code for an Exploratory Data Analysis (EDA) project on 
 
 ## Getting Started
 ### Installation
-` git clone https://github.com/your-username/netflix-eda.git'
+` git clone https://github.com/sahasCodes/Exploratory-Data-Analysis-on-Netflix-Content/tree/main'
 'cd netflix-eda`
 
 ### Prerequisites
